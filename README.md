@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+I'm Sagar Kanojia, Experienced Founder with a demonstrated history of working in the computer and network security industry. Skilled in Computer Networking, Python, Java, Machine Learning, and Computer Security. A developer with a Bachelor's degree focused in Computer Science.
 
 ![](https://img.shields.io/badge/<OS>-<LINUX>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<CODE>-<PYTHON>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
