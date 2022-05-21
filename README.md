@@ -7,7 +7,7 @@ I'm Sagar Kanojia, Experienced Founder with a demonstrated history of working in
 ![](https://img.shields.io/badge/<CODE>-<C>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<SKILLS>-<CYBERSECURITY>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<SKILLS>-<NETWORKING>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<SKILLS>-<Cloud Computing>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<SKILLS>-<Cloud>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<SKILLS>-<AWS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<SKILLS>-<GCP>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
